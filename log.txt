@@ -1,0 +1,346 @@
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/31/2019
+
+Concert Venue: American Airlines Arena
+
+Venue Location: Miami FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/29/2019
+
+Concert Venue: Amway Center
+
+Venue Location: Orlando FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/28/2019
+
+Concert Venue: Amalie Arena
+
+Venue Location: Tampa FL United States
+
+
+
+------------------------------------------------------------------------
+
+spotify-this-song
+
+Delicate
+
+------------------------------------------------------------------------
+
+
+
+Track: Wally Wilder
+
+Album: Positive Force
+
+Artist: Delicate Steve
+
+Url to play the song on Spotify: https://open.spotify.com/track/0I7P0p2nfgDc8QKDwktt0e
+
+
+
+------------------------------------------------------------------------
+
+movie-this
+
+National Treasure
+
+---------------------------------------------------------------------
+
+
+
+Movie Title: National Treasure
+
+Year Released: 19 Nov 2004
+
+Rating on IMDB: 6.9/10
+
+Rating on Rotten Tomatoes: 45%
+
+Country Produced in: USA
+
+Language Produced in: English, Spanish
+
+Movie Plot: A historian races to find the legendary Templar Treasure before a team of mercenaries.
+
+Movie Cast: Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean
+
+
+
+---------------------------------------------------------------------
+
+spotify-this-song
+
+Delicate
+
+------------------------------------------------------------------------
+
+
+
+Track: Wally Wilder
+
+Album: Positive Force
+
+Artist: Delicate Steve
+
+Url to play the song on Spotify: https://open.spotify.com/track/0I7P0p2nfgDc8QKDwktt0e
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/29/2019
+
+Concert Venue: Amway Center
+
+Venue Location: Orlando FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/31/2019
+
+Concert Venue: American Airlines Arena
+
+Venue Location: Miami FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/28/2019
+
+Concert Venue: Amalie Arena
+
+Venue Location: Tampa FL United States
+
+
+
+------------------------------------------------------------------------
+
+movie-this
+
+National Treasure
+
+---------------------------------------------------------------------
+
+
+
+Movie Title: National Treasure
+
+Year Released: 19 Nov 2004
+
+Rating on IMDB: 6.9/10
+
+Rating on Rotten Tomatoes: 45%
+
+Country Produced in: USA
+
+Language Produced in: English, Spanish
+
+Movie Plot: A historian races to find the legendary Templar Treasure before a team of mercenaries.
+
+Movie Cast: Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean
+
+
+
+---------------------------------------------------------------------
+
+Do What It Says,spotify-this-song,"I Want it That Way"spotify-this-song
+
+"I Want it That Way"
+
+------------------------------------------------------------------------
+
+
+
+Track: I Want It That Way
+
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Artist: Shoshana Bean
+
+Url to play the song on Spotify: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/29/2019
+
+Concert Venue: Amway Center
+
+Venue Location: Orlando FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/28/2019
+
+Concert Venue: Amalie Arena
+
+Venue Location: Tampa FL United States
+
+
+
+------------------------------------------------------------------------
+
+concert-this
+
+Ariana Grande
+
+------------------------------------------------------------------------
+
+
+
+Date of the Concert: 05/31/2019
+
+Concert Venue: American Airlines Arena
+
+Venue Location: Miami FL United States
+
+
+
+------------------------------------------------------------------------
+
+spotify-this-song
+
+Suspicious Minds
+
+------------------------------------------------------------------------
+
+
+
+Track: Suspicious Minds
+
+Album: VINYL: Music From The HBO® Original Series - Vol. 1
+
+Artist: Vinyl on HBO
+
+Url to play the song on Spotify: https://open.spotify.com/track/3vQrMn2r3d8tOzZGLgHvMu
+
+
+
+------------------------------------------------------------------------
+
+movie-this
+
+National Treasure
+
+---------------------------------------------------------------------
+
+
+
+Movie Title: National Treasure
+
+Year Released: 19 Nov 2004
+
+Rating on IMDB: 6.9/10
+
+Rating on Rotten Tomatoes: 45%
+
+Country Produced in: USA
+
+Language Produced in: English, Spanish
+
+Movie Plot: A historian races to find the legendary Templar Treasure before a team of mercenaries.
+
+Movie Cast: Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean
+
+
+
+---------------------------------------------------------------------
+
+Do What It Says,spotify-this-song,"I Want it That Way"spotify-this-song
+
+"I Want it That Way"
+
+------------------------------------------------------------------------
+
+
+
+Track: I Want It That Way
+
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Artist: Shoshana Bean
+
+Url to play the song on Spotify: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+
+
+------------------------------------------------------------------------
+
